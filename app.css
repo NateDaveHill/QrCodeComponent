@@ -1,0 +1,23 @@
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.attribution img { 
+    height: 90%; 
+    width: 90%;
+    border-radius: 5%;
+}
+
+.box {
+    margin: auto;
+    width: 320px;
+    height: 497px;
+    border: 1px solid black;
+    border-radius: 10%;
+    
+  }
