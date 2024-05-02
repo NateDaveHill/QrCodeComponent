@@ -18,6 +18,29 @@
     width: 320px;
     height: 497px;
     border: 1px solid black;
-    border-radius: 10%;
-    
+    border-radius: 20px;
+    padding: 2px;    
   }
+
+.paragraph{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: outfit;
+    margin-top: 10px;
+}
+
+.box h1 {
+    font-weight: 700;
+    font-family: outfit;
+    font-size: 25px;
+}
+
+.box h2 {
+    font-weight: 400;
+    font-family: outfit;
+    font-size: 15px;
+    inline-size: 250px;
+    margin: auto;
+    opacity: 0.6;
+}
